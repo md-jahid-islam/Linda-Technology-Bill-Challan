@@ -147,4 +147,3 @@ import "react-toastify/dist/ReactToastify.css";
  };
 
  export default RegisterComponents;
-//  dfadsfadsfadsfasf
